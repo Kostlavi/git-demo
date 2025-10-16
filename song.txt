@@ -1,2 +1,4 @@
 (One) Here comes the sun
 (Two) Here comes the sun
+(Three) It is the brightest star of them all
+(Four) Here comes the sun
